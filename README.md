@@ -13,7 +13,10 @@ This project is an interactive visualization of a large dataset tagged by geospa
 
 ## INSTALLATION
 
->Import this folder in Eclipse ('File' -> 'Import' -> 'Existing Projects into
+>To run this project [Eclipse IDE](https://www.eclipse.org/downloads/) is required.
+>You need to manually build/run the project in Eclipse
+>Clone the repository.
+>Import the folder in Eclipse ('File' -> 'Import' -> 'Existing Projects into
 >Workspace', Select this folder, 'Finish')
 
 
