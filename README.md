@@ -1,4 +1,4 @@
-#**EARTHQUAKE MAP APPLICATION**
+#EARTHQUAKE MAP APPLICATION
 
 An Interactive map application that displays realtime Earthquake data on world map using various visual components.
 
