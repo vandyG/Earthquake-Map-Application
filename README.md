@@ -1,5 +1,8 @@
-unfolding_app_template and UC San Diego/Coursera MOOC starter code
-==================================================================
+#**EARTHQUAKE MAP APPLICATION**
+
+An Interactive map application that displays realtime Earthquake data on world map using various visual components.
+
+![Image](https://imgur.com/X0mfVIJ)
 
 This is a skeleton to use Unfolding in Eclipse as well as some starter
 code for the Object Oriented Programming in Java course offered by 
