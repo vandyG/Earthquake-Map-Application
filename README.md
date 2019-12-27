@@ -2,7 +2,7 @@
 
 An Interactive map application that displays realtime Earthquake data on world map using various visual components.
 
-![Image](https://imgur.com/X0mfVIJ)
+![Image](https://i.imgur.com/X0mfVIJ.png)
 
 This is a skeleton to use Unfolding in Eclipse as well as some starter
 code for the Object Oriented Programming in Java course offered by 
