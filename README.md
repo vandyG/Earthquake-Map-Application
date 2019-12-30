@@ -13,7 +13,7 @@ This project is an interactive visualization of a large dataset tagged by geospa
 
 ## INSTALLATION
 
->To run this project [Eclipse IDE](https://www.eclipse.org/downloads/) is required.
+To run this project [Eclipse IDE](https://www.eclipse.org/downloads/) is required.
 >You need to manually build/run the project in Eclipse
 >1. Clone the repository.
 >2. Import the folder in Eclipse ('File' -> 'Import' -> 'Existing Projects into
